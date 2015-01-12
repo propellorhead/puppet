@@ -1,0 +1,4 @@
+node 'pojomojo' {
+ include puppet
+}
+
